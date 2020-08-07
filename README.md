@@ -1,0 +1,2 @@
+# Automated_Teller_Machine
+I developed an Automated Teller Machine, or ATM for fun, because I thought it would be a fun idea to do so. And that the program has its all basic functionalities. Like: Checking the balance, Deposits, and Withdrawals. Although I never had a bank account myself.. So I just programmed it based on how I see people use it. Also, this Program is connected to a local database, and the tables need to contain an Account Number, Credit Card Number, the name of the user, his/her address, the CVV number, and EXP code.
